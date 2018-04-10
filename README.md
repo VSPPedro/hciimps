@@ -20,7 +20,7 @@ Every now and then I repeat this question in google. To stop doing that, searchi
 
 #### Coding Challenge Web Sites:
 
-1 - [HackerRank](http://hackerrank.com) 
+1 - [HackerRank](http://hackerrank.com)  
 2 - [CodeWars](https://www.codewars.com)  
 3 - [Uri Online Judge](https://www.urionlinejudge.com.br)
 
