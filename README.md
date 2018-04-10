@@ -24,8 +24,8 @@ Every now and then I repeat this question in google. To stop doing that, searchi
 2 - [CodeWars](https://www.codewars.com)  
 3 - [Uri Online Judge](https://www.urionlinejudge.com.br)
 
-#### Free certifieds for your CV:
+#### Free certifieds for CV:
 
-1 - [Scrum Fundamentals Certified](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
+1 - [Scrum Fundamentals Certified](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)  
 
 Thanks for reading!
