@@ -1,6 +1,6 @@
 # How Can I Improve My Programming Skills
 
-Every now and then I repeat this question on google. To stop doing that, searching the same thing, I'll start saving what's worked for me. Things like books, youtube channels, sites, courses, etc. Any help is appreciated.
+Every now and then I repeat this question at google. To stop doing that, searching the same thing, I'll start saving what's worked for me. Things like books, youtube channels, sites, courses, etc. Any help is appreciated.
 
 #### For know I'll study this awnsers and put here what is working for me and what I wanna try: 
 [How Can I Improve Progrmming Skills](https://www.quora.com/How-can-I-improve-programming-skills)
