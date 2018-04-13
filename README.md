@@ -1,6 +1,6 @@
 # hciimps(How Can I Improve My Programming Skills)
 
-Every now and then I search (how can I improve my programming skills) at google, to stop doing that, searching the same thing, I'll start saving what's worked for me and what I want to learn. Things like books, youtube channels, sites, courses, etc. Any help is appreciated.
+Every now and then I search (how can I improve my programming skills) at google, to stop doing that, searching the same thing, I'll start saving here what's worked for me and links that I think it's interesting: books, youtube channels, challenges, courses, etc. Any help is appreciated.
 
 #### Questions: 
 
@@ -55,4 +55,9 @@ Every now and then I search (how can I improve my programming skills) at google,
 5 - [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)  
 6 - [A or B](https://www.hackerrank.com/challenges/aorb/problem)  
 
-Thanks for reading!
+#### Coding for Interview
+
+1 - [Programming Interview Questions](https://www.hackerrank.com/programming-interview-questions/)
+
+
+### Thanks for reading!
