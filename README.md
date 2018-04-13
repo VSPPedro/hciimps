@@ -39,7 +39,7 @@ Every now and then I repeat this question at google. To stop doing that, searchi
 
 #### Challenges:
 
-1 - [Factorial of a number](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
+1 - [Factorial of a number](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  
 2 - [Common divisor](https://www.hackerrank.com/challenges/common-divisors/problem)
 
 Thanks for reading!
