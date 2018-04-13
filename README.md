@@ -3,7 +3,7 @@
 Every now and then I repeat this question at google. To stop doing that, searching the same thing, I'll start saving what's worked for me. Things like books, youtube channels, sites, courses, etc. Any help is appreciated.
 
 #### Questions: 
-1 - [How Can I Improve Progrmming Skills](https://www.quora.com/How-can-I-improve-programming-skills)
+1 - [How Can I Improve Progrmming Skills](https://www.quora.com/How-can-I-improve-programming-skills)  
 2 - [What topics should I must learn to be a programmer](https://www.quora.com/What-topics-should-I-must-learn-to-be-a-programmer)
 
 #### Courses:
