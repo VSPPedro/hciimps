@@ -4,7 +4,7 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 #### Questions: 
 
-1 - [How Can I Improve Progrmming Skills](https://www.quora.com/How-can-I-improve-programming-skills)  
+1 - [How Can I Improve Programming Skills](https://www.quora.com/How-can-I-improve-programming-skills)  
 2 - [What topics should I must learn to be a programmer](https://www.quora.com/What-topics-should-I-must-learn-to-be-a-programmer)
 
 #### Lectures:
