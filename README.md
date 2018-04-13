@@ -39,7 +39,11 @@ Every now and then I repeat this question at google. To stop doing that, searchi
 
 #### Challenges:
 
-1 - [Factorial of a number](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  
-2 - [Common divisor](https://www.hackerrank.com/challenges/common-divisors/problem)
+1 - [Factorial of a Number](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  
+2 - [Common Divisor](https://www.hackerrank.com/challenges/common-divisors/problem)  
+3 - [Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)
+4 - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+5 - [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)
+6 - [A or B](https://www.hackerrank.com/challenges/aorb/problem)
 
 Thanks for reading!
