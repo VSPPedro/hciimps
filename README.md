@@ -37,5 +37,9 @@ Every now and then I repeat this question at google. To stop doing that, searchi
 
 1 - [Recursion vs Iteration](https://stackoverflow.com/questions/15688019/recursion-versus-iteration?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 
+#### Challenges:
+
+1 - [Factorial of a number](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
+2 - [Common divisor](https://www.hackerrank.com/challenges/common-divisors/problem)
 
 Thanks for reading!
