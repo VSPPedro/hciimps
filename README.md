@@ -3,17 +3,26 @@
 Every now and then I search (how can I improve my programming skills) at google, to stop doing that, searching the same thing, I'll start saving what's worked for me. Things like books, youtube channels, sites, courses, etc. Any help is appreciated.
 
 #### Questions: 
+
 1 - [How Can I Improve Progrmming Skills](https://www.quora.com/How-can-I-improve-programming-skills)  
 2 - [What topics should I must learn to be a programmer](https://www.quora.com/What-topics-should-I-must-learn-to-be-a-programmer)
 
+#### Lectures:
+
+1 - [Advanced Data Structures](http://courses.csail.mit.edu/6.851/fall17/lectures/)
+
 #### Courses:
 
-1 - [Algorithms Coursera](https://www.coursera.org/specializations/algorithms)
+1 - [Algorithms Coursera](https://www.coursera.org/specializations/algorithms)  
+2 - [In-Memory Data Management](https://open.hpi.de/courses/imdb2017)
 
 #### Youtube Channels:
 
 1 - [saurabhschool](https://www.youtube.com/user/saurabhschool/playlists)  
-2 - [mycodeschool](https://www.youtube.com/user/mycodeschool/playlists)
+2 - [mycodeschool](https://www.youtube.com/user/mycodeschool/playlists)  
+3 - [Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0)  
+4 - [Time Series Database Lectures](https://www.youtube.com/watch?v=2SUBRE6wGiA&list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9&index=1)
+
 
 #### Books:
 
