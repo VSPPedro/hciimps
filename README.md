@@ -44,7 +44,9 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 #### Basic core concepts:
 
-1 - [Recursion vs Iteration](https://stackoverflow.com/questions/15688019/recursion-versus-iteration?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+1 - [Recursion vs Iteration](https://stackoverflow.com/questions/15688019/recursion-versus-iteration?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
+2 - [Linear search vs Binary Search](https://stackoverflow.com/questions/700241/what-is-the-difference-between-linear-search-and-binary-search)  
+3 - [Binary Search vs Interpolation Search](https://softwareengineering.stackexchange.com/questions/119703/interpolation-search-vs-binary-search?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
 
 #### Challenges:
 
