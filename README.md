@@ -49,6 +49,8 @@ Every now and then I search (how can I improve my programming skills) at google,
 3 - [Binary Search vs Interpolation Search](https://softwareengineering.stackexchange.com/questions/119703/interpolation-search-vs-binary-search?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
 4 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)  
 5 - [Quick Select](https://stackoverflow.com/questions/10846482/quickselect-algorithm-understanding?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
+6 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)  
+7 - [Merge Sort vs Quick Sort](https://stackoverflow.com/questions/70402/why-is-quicksort-better-than-mergesort)  
 
 #### Challenges:
 
