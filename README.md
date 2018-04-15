@@ -61,7 +61,8 @@ Every now and then I search (how can I improve my programming skills) at google,
 4 - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)  
 5 - [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)  
 6 - [A or B](https://www.hackerrank.com/challenges/aorb/problem)  
-7 - [Tower of Hanoi](https://www.codewars.com/kata/towers-of-hanoi)
+7 - [Tower of Hanoi](https://www.codewars.com/kata/towers-of-hanoi)  
+8 - [Queens Problem](https://www.hackerrank.com/challenges/queens-on-board/problem)
 
 #### Coding for Interview
 
