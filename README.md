@@ -53,6 +53,7 @@ Every now and then I search (how can I improve my programming skills) at google,
 7 - [Merge Sort vs Quick Sort](https://stackoverflow.com/questions/70402/why-is-quicksort-better-than-mergesort)  
 8 - [Backtracking](https://en.wikipedia.org/wiki/Backtracking)  
 9 - [Graphs](https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Fundamentals_of_data_structures/Graphs)  
+10 - [Hamiltonian path](https://en.wikipedia.org/wiki/Hamiltonian_path)
 
 #### Challenges:
 
