@@ -56,4 +56,9 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 1 - [Cerebro](https://github.com/cerebrobr/cerebro)
 
+#### GitHub Gist
+
+1 - [One Year Out: How I Became a Better Programmer](https://gist.github.com/peterhurford/894b4e919b3e4a4836aa)
+
+
 ### Thanks for reading!
