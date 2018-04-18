@@ -44,7 +44,7 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 #### Basic core concepts
 
-#### Challenges
+#### [Challenges](https://github.com/VSPPedro/hciimps/blob/master/CHALLENGES.md)
 
 #### Coding for Interview
 
