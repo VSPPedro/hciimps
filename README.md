@@ -65,7 +65,8 @@ Every now and then I search (how can I improve my programming skills) at google,
 6 - [A or B](https://www.hackerrank.com/challenges/aorb/problem)  
 7 - [Tower of Hanoi](https://www.codewars.com/kata/towers-of-hanoi)  
 8 - [Queens Problem](https://www.hackerrank.com/challenges/queens-on-board/problem)  
-9 - [Graph Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=graph-theory)
+9 - [Graph Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=graph-theory)  
+10 - [Knight's Tour](https://www.hackerrank.com/contests/ieee-excavation-1-0/challenges/knights-tour)
 
 #### Coding for Interview
 
