@@ -9,4 +9,5 @@
 7 - [Tower of Hanoi](https://www.codewars.com/kata/towers-of-hanoi)  
 8 - [Queens Problem](https://www.hackerrank.com/challenges/queens-on-board/problem)  
 9 - [Graph Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=graph-theory)  
-10 - [Knight's Tour](https://www.hackerrank.com/contests/ieee-excavation-1-0/challenges/knights-tour)
+10 - [Knight's Tour](https://www.hackerrank.com/contests/ieee-excavation-1-0/challenges/knights-tour)  
+11 - [Maze Escape](https://www.hackerrank.com/challenges/maze-escape)
