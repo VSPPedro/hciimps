@@ -42,31 +42,9 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 1 - [Scrum Fundamentals Certified](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)  
 
-#### Basic core concepts:
+#### Basic core concepts
 
-1 - [Recursion vs Iteration](https://stackoverflow.com/questions/15688019/recursion-versus-iteration?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
-2 - [Linear search vs Binary Search](https://stackoverflow.com/questions/700241/what-is-the-difference-between-linear-search-and-binary-search)  
-3 - [Binary Search vs Interpolation Search](https://softwareengineering.stackexchange.com/questions/119703/interpolation-search-vs-binary-search?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
-4 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)  
-5 - [Quick Select](https://stackoverflow.com/questions/10846482/quickselect-algorithm-understanding?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
-6 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)  
-7 - [Merge Sort vs Quick Sort](https://stackoverflow.com/questions/70402/why-is-quicksort-better-than-mergesort)  
-8 - [Backtracking](https://en.wikipedia.org/wiki/Backtracking)  
-9 - [Graphs](https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Fundamentals_of_data_structures/Graphs)  
-10 - [Hamiltonian path](https://en.wikipedia.org/wiki/Hamiltonian_path)
-
-#### Challenges:
-
-1 - [Factorial of a Number](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  
-2 - [Common Divisor](https://www.hackerrank.com/challenges/common-divisors/problem)  
-3 - [Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)  
-4 - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)  
-5 - [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)  
-6 - [A or B](https://www.hackerrank.com/challenges/aorb/problem)  
-7 - [Tower of Hanoi](https://www.codewars.com/kata/towers-of-hanoi)  
-8 - [Queens Problem](https://www.hackerrank.com/challenges/queens-on-board/problem)  
-9 - [Graph Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=graph-theory)  
-10 - [Knight's Tour](https://www.hackerrank.com/contests/ieee-excavation-1-0/challenges/knights-tour)
+#### Challenges
 
 #### Coding for Interview
 
