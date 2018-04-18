@@ -49,7 +49,11 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 #### Coding for Interview
 
-1 - [Programming Interview Questions](https://www.hackerrank.com/programming-interview-questions/)
+1 - [Programming Interview Questions](https://www.hackerrank.com/programming-interview-questions/)  
 
+
+#### GitHub projects
+
+1 - [Cerebro](https://github.com/cerebrobr/cerebro)
 
 ### Thanks for reading!
