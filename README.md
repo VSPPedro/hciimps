@@ -2,6 +2,11 @@
 
 Every now and then I search (how can I improve my programming skills) at google, to stop doing that, searching the same thing, I'll start saving here what's worked for me and links that I think it's interesting: books, youtube channels, challenges, courses, etc. Any help is appreciated.
 
+## Categories
+
+#### [Basic core concepts](https://github.com/VSPPedro/hciimps/blob/master/CONCEPTS.md)
+#### [Challenges](https://github.com/VSPPedro/hciimps/blob/master/CHALLENGES.md)
+
 #### Questions: 
 
 1 - [How Can I Improve Programming Skills](https://www.quora.com/How-can-I-improve-programming-skills)  
@@ -41,10 +46,6 @@ Every now and then I search (how can I improve my programming skills) at google,
 #### Free certifieds for CV:
 
 1 - [Scrum Fundamentals Certified](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)  
-
-#### [Basic core concepts](https://github.com/VSPPedro/hciimps/blob/master/CONCEPTS.md)
-
-#### [Challenges](https://github.com/VSPPedro/hciimps/blob/master/CHALLENGES.md)
 
 #### Coding for Interview
 
