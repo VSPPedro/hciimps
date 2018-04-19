@@ -1,4 +1,4 @@
-#### Topics
+#### Concepts
 
 1 - [Recursion vs Iteration](https://stackoverflow.com/questions/15688019/recursion-versus-iteration?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
 2 - [Linear search vs Binary Search](https://stackoverflow.com/questions/700241/what-is-the-difference-between-linear-search-and-binary-search)  
