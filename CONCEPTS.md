@@ -16,7 +16,8 @@
 14 - [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm)  
 15 - [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)  
 16 - [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)  
-17 - [Memoization](https://en.wikipedia.org/wiki/Memoization)
+17 - [Memoization](https://en.wikipedia.org/wiki/Memoization)  
+18 - [Knapsack](https://en.wikipedia.org/wiki/Knapsack_problem)  
 
 
 #### [<- Go Back](https://github.com/VSPPedro/hciimps#hciimpshow-can-i-improve-my-programming-skills)
