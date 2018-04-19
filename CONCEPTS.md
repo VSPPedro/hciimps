@@ -15,6 +15,7 @@
 13 - [Ant-Colony Optimization](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms)  
 14 - [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm)  
 15 - [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)  
+16 - [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)  
 
 
 #### [<- Go Back](https://github.com/VSPPedro/hciimps#hciimpshow-can-i-improve-my-programming-skills)
