@@ -28,6 +28,9 @@ Every now and then I search (how can I improve my programming skills) at google,
 3 - [Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0)  
 4 - [Time Series Database Lectures](https://www.youtube.com/watch?v=2SUBRE6wGiA&list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9&index=1)
 
+#### Design
+
+1 - [Liquid Layout](http://maxdesign.com.au/articles/liquid/)
 
 #### Books:
 
