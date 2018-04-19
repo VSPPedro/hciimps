@@ -11,7 +11,8 @@
 9 - [Graph Problems](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=graph-theory)  
 10 - [Knight's Tour](https://www.hackerrank.com/contests/ieee-excavation-1-0/challenges/knights-tour)  
 11 - [Maze Escape](https://www.hackerrank.com/challenges/maze-escape)  
-12 - [Sudoku](https://www.hackerrank.com/challenges/sudoku/problem)
+12 - [Sudoku](https://www.hackerrank.com/challenges/sudoku/problem)  
+13 - [Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp/problem)
 
 
 #### [<- Go Back](https://github.com/VSPPedro/hciimps#hciimpshow-can-i-improve-my-programming-skills)
