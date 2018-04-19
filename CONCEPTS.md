@@ -10,6 +10,8 @@
 8 - [Backtracking](https://en.wikipedia.org/wiki/Backtracking)  
 9 - [Graphs](https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Fundamentals_of_data_structures/Graphs)  
 10 - [Hamiltonian path](https://en.wikipedia.org/wiki/Hamiltonian_path)  
+11 - [Meta-heuristics](https://en.wikipedia.org/wiki/Metaheuristic)  
+12 - [NP vs NP-Complete vs NP-Hard](https://stackoverflow.com/questions/1857244/what-are-the-differences-between-np-np-complete-and-np-hard?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
 
 
 #### [<- Go Back](https://github.com/VSPPedro/hciimps#hciimpshow-can-i-improve-my-programming-skills)
