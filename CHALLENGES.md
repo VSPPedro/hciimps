@@ -13,7 +13,8 @@
 11 - [Maze Escape](https://www.hackerrank.com/challenges/maze-escape)  
 12 - [Sudoku](https://www.hackerrank.com/challenges/sudoku/problem)  
 13 - [Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp/problem)
-14 - [Knapsack Problem](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
+14 - [Knapsack Problem](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)  
+15 - [Coin Problem](https://www.hackerrank.com/challenges/coin-change/problem)
 
 
 #### [<- Go Back](https://github.com/VSPPedro/hciimps#hciimpshow-can-i-improve-my-programming-skills)
