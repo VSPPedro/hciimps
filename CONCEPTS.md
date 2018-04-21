@@ -18,6 +18,7 @@
 16 - [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)  
 17 - [Memoization](https://en.wikipedia.org/wiki/Memoization)  
 18 - [Knapsack](https://en.wikipedia.org/wiki/Knapsack_problem)  
+19 - [Change making](https://en.wikipedia.org/wiki/Change-making_problem)
 
 
 #### [<- Go Back](https://github.com/VSPPedro/hciimps#hciimpshow-can-i-improve-my-programming-skills)
