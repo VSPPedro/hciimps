@@ -22,6 +22,7 @@
 20 - [Subset Sum](https://en.wikipedia.org/wiki/Subset_sum_problem)  
 21 - [Bin Packing Problem](https://en.wikipedia.org/wiki/Bin_packing_problem)  
 22 - [Closest Pair of Point](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem)  
+23 - [Palindrome](https://en.wikipedia.org/wiki/Palindrome)  
 
 
 #### [<- Go Back](https://github.com/VSPPedro/hciimps#hciimpshow-can-i-improve-my-programming-skills)
