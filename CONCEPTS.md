@@ -20,6 +20,8 @@
 18 - [Knapsack](https://en.wikipedia.org/wiki/Knapsack_problem)  
 19 - [Change making](https://en.wikipedia.org/wiki/Change-making_problem)  
 20 - [Subset Sum](https://en.wikipedia.org/wiki/Subset_sum_problem)  
+21 - [Bin Packing Problem](https://en.wikipedia.org/wiki/Bin_packing_problem)  
+22 - [Closest Pair of Point](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem)  
 
 
 #### [<- Go Back](https://github.com/VSPPedro/hciimps#hciimpshow-can-i-improve-my-programming-skills)
