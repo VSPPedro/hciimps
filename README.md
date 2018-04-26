@@ -14,7 +14,8 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 #### Lectures:
 
-1 - [Advanced Data Structures](http://courses.csail.mit.edu/6.851/fall17/lectures/)
+1 - [Advanced Data Structures](http://courses.csail.mit.edu/6.851/fall17/lectures/)  
+2 - [Introductory Machine Learning Course](https://www.youtube.com/watch?v=mbyG85GZ0PI)  
 
 #### Courses:
 
