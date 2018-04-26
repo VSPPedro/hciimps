@@ -27,7 +27,8 @@ Every now and then I search (how can I improve my programming skills) at google,
 1 - [saurabhschool](https://www.youtube.com/user/saurabhschool/playlists)  
 2 - [mycodeschool](https://www.youtube.com/user/mycodeschool/playlists)  
 3 - [Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0)  
-4 - [Time Series Database Lectures](https://www.youtube.com/watch?v=2SUBRE6wGiA&list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9&index=1)
+4 - [Time Series Database Lectures](https://www.youtube.com/watch?v=2SUBRE6wGiA&list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9&index=1)  
+5 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
 #### Design
 
