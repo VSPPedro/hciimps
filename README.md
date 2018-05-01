@@ -20,7 +20,9 @@ Every now and then I search (how can I improve my programming skills) at google,
 #### Courses:
 
 1 - [Algorithms Coursera](https://www.coursera.org/specializations/algorithms)  
-2 - [In-Memory Data Management](https://open.hpi.de/courses/imdb2017)
+2 - [In-Memory Data Management](https://open.hpi.de/courses/imdb2017)  
+3 - [Plural Sight](https://www.pluralsight.com/)  
+4 - [Lynda: Online Courses](https://www.lynda.com/)  
 
 #### Youtube Channels:
 
