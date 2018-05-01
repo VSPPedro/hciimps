@@ -23,6 +23,7 @@ Every now and then I search (how can I improve my programming skills) at google,
 2 - [In-Memory Data Management](https://open.hpi.de/courses/imdb2017)  
 3 - [Plural Sight](https://www.pluralsight.com/)  
 4 - [Lynda: Online Courses](https://www.lynda.com/)  
+5 - [Brillian](https://brilliant.org)  
 
 #### Youtube Channels:
 
