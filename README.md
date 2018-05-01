@@ -7,6 +7,10 @@ Every now and then I search (how can I improve my programming skills) at google,
 #### [Challenges](https://github.com/VSPPedro/hciimps/blob/master/CHALLENGES.md)
 #### [Concepts](https://github.com/VSPPedro/hciimps/blob/master/CONCEPTS.md)
 
+#### Games
+
+1 - [CodeCombat](https://br.codecombat.com)  
+
 #### Questions: 
 
 1 - [How Can I Improve Programming Skills](https://www.quora.com/How-can-I-improve-programming-skills)  
