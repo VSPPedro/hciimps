@@ -1,4 +1,4 @@
-#### Challenges:
+#### Coding Challenge:
 
 1 - [Factorial of a Number](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  
 2 - [Common Divisor](https://www.hackerrank.com/challenges/common-divisors/problem)  
@@ -17,5 +17,7 @@
 15 - [Coin Problem](https://www.hackerrank.com/challenges/coin-change/problem)  
 16 - [Non Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)
 
+#### Project Challenge
+1 - [Develop yout first web crawler in python scrapy](https://medium.com/python-pandemonium/develop-your-first-web-crawler-in-python-scrapy-6b2ee4baf954)  
 
 #### [<- Go Back](https://github.com/VSPPedro/hciimps#hciimpshow-can-i-improve-my-programming-skills)
