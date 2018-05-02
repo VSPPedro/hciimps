@@ -6,10 +6,7 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 #### [Challenges](https://github.com/VSPPedro/hciimps/blob/master/CHALLENGES.md)
 #### [Concepts](https://github.com/VSPPedro/hciimps/blob/master/CONCEPTS.md)
-
-#### Games
-
-1 - [CodeCombat](https://br.codecombat.com)  
+#### [Games](https://medium.mybridge.co/12-free-resources-learn-to-code-while-playing-games-f7333043de11)  
 
 #### Questions: 
 
