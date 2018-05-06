@@ -73,7 +73,8 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 #### Articles
 
-1 -[Atom for python development](https://codingpenguin.net/configuring-atom-for-python-development/)
+1 - [Atom for python development](https://codingpenguin.net/configuring-atom-for-python-development/)
+2 - [On Commit Messages](http://who-t.blogspot.com.br/2009/12/on-commit-messages.html)
 
 
 ### Thanks for reading!
