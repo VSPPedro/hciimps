@@ -71,10 +71,11 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 1 - [One Year Out: How I Became a Better Programmer](https://gist.github.com/peterhurford/894b4e919b3e4a4836aa)
 
-#### Articles
+#### Interisting Articles
 
-1 - [Atom for python development](https://codingpenguin.net/configuring-atom-for-python-development/)
-2 - [On Commit Messages](http://who-t.blogspot.com.br/2009/12/on-commit-messages.html)
+1 - [Atom for python development](https://codingpenguin.net/configuring-atom-for-python-development/)  
+2 - [On Commit Messages](http://who-t.blogspot.com.br/2009/12/on-commit-messages.html)  
+3 - [Why should we use Emacs?](https://www.quora.com/Why-should-we-use-Emacs?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 
 
 ### Thanks for reading!
