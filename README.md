@@ -71,5 +71,9 @@ Every now and then I search (how can I improve my programming skills) at google,
 
 1 - [One Year Out: How I Became a Better Programmer](https://gist.github.com/peterhurford/894b4e919b3e4a4836aa)
 
+#### Articles
+
+1 -[Atom for python development](https://codingpenguin.net/configuring-atom-for-python-development/)
+
 
 ### Thanks for reading!
