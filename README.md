@@ -77,5 +77,10 @@ Every now and then I search (how can I improve my programming skills) at google,
 2 - [On Commit Messages](http://who-t.blogspot.com.br/2009/12/on-commit-messages.html)  
 3 - [Why should we use Emacs?](https://www.quora.com/Why-should-we-use-Emacs?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 
+#### Projects TO DO
+
+1 - [Rails JSON API](https://thinkster.io/tutorials/rails-json-api)   
+2 - [React & Redux Web](https://thinkster.io/tutorials/build-a-real-world-react-redux-application) 
+
 
 ### Thanks for reading!
