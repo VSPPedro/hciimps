@@ -80,7 +80,7 @@ Every now and then I search (how can I improve my programming skills) at google,
 #### Projects TO DO
 
 1 - [Rails JSON API - Thinkster](https://thinkster.io/tutorials/rails-json-api)     
-2 - [Rails JSON API - Scotch.io](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one) 
+2 - [Rails JSON API - Scotch.io](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)  
 3 - [React & Redux Web](https://thinkster.io/tutorials/build-a-real-world-react-redux-application)  
 
 
